@@ -1,0 +1,13 @@
+#header-img {
+	width: 20px;
+	height: auto;
+	display: inline;
+	vertical-align: top;
+}
+#header-img:hover {
+	cursor: pointer;
+}
+
+#header-label {
+	display: inline;
+}

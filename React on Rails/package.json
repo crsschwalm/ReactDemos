@@ -1,0 +1,32 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "description": "Twitter Clone, written with React, Flux, and Rails",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crsschwalm/ReactDemos.git"
+  },
+  "author": "Carson Schwalm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crsschwalm/ReactDemos/issues"
+  },
+  "homepage": "https://github.com/crsschwalm/ReactDemos#readme",
+  "dependencies": {
+    "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.9",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.9"
+  }
+}
